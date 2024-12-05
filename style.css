@@ -167,5 +167,5 @@ a:visited {
 
 
 .container__botao:hover {
-    background-color: blue;
+    background-color: var(--botao-azul-hover);
 }
